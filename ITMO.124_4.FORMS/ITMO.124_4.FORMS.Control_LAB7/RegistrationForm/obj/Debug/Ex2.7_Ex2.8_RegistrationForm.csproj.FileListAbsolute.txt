@@ -1,0 +1,18 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\Ex2.7_Ex2.8_RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\Ex2.7_Ex2.8_RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\bin\Debug\RegistrationForm.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\Ex2.7_Ex2.8_RegistrationForm.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\Ex2.7_Ex2.8_RegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB7\RegistrationForm\obj\Debug\RegistrationForm.pdb

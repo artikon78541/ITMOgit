@@ -1,0 +1,21 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.nForm.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\Ex1.3_WindowsFormsThree.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\Ex1.3_WindowsFormsThree.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\bin\Debug\WindowsFormsThree.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\Ex1.3_WindowsFormsThree.csprojAssemblyReference.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.nForm.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\Ex1.3_WindowsFormsThree.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\Ex1.3_WindowsFormsThree.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsFormsThree\WindowsFormsThree\obj\Debug\WindowsFormsThree.pdb

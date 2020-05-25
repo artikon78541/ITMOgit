@@ -1,0 +1,11 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\bin\Debug\MDIApplication.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\bin\Debug\MDIApplication.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\bin\Debug\MDIApplication.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\Ex1.4_MDIApplication.csprojAssemblyReference.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\MDIApplication.ChildForm.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\MDIApplication.ParentForm.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\MDIApplication.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\Ex1.4_MDIApplication.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\Ex1.4_MDIApplication.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\MDIApplication.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB4\MDIApplication\obj\Debug\MDIApplication.pdb

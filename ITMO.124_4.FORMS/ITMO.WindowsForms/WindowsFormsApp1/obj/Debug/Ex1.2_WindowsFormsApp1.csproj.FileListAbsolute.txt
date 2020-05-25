@@ -1,0 +1,19 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\Ex1.2_WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\Ex1.2_WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\Ex1.2_WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\Ex1.2_WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\Ex1.2_WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.WindowsForms\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
