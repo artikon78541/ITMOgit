@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\bin\Debug\Dialog.Ex4.exe.config
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\bin\Debug\Dialog.Ex4.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\bin\Debug\Dialog.Ex4.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.Form1.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.Form2.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex4\Dialog.Ex4\obj\Debug\Dialog.Ex4.pdb

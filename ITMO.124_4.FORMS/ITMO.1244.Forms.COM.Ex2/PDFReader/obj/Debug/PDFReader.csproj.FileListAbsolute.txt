@@ -1,0 +1,15 @@
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\bin\Debug\PDFReader.exe.config
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\bin\Debug\PDFReader.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\bin\Debug\PDFReader.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.csproj.ResolveComReference.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.Form1.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.COM.Ex2\PDFReader\obj\Debug\PDFReader.pdb

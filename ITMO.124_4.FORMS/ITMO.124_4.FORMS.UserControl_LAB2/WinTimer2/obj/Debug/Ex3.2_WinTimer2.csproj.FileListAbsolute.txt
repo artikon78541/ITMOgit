@@ -18,3 +18,13 @@ C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl
 C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\Ex3.2_WinTimer2.csproj.CoreCompileInputs.cache
 C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.exe
 C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.pdb
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\bin\Debug\WinTimer2.exe.config
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\bin\Debug\WinTimer2.exe
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\bin\Debug\WinTimer2.pdb
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.Form1.resources
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.Properties.Resources.resources
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.UserControlTimer2.resources
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\Ex3.2_WinTimer2.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\Ex3.2_WinTimer2.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.exe
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\ITMO.124_4.FORMS.UserControl_LAB2\WinTimer2\obj\Debug\WinTimer2.pdb

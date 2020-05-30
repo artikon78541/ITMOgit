@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\bin\Debug\TestStandartDialog.exe.config
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\bin\Debug\TestStandartDialog.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\bin\Debug\TestStandartDialog.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.Form1.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Dialog.Ex1\TestStandartDialog\obj\Debug\TestStandartDialog.pdb

@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WinGrafSinLine.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WinGrafSinLine.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.edit.resources
