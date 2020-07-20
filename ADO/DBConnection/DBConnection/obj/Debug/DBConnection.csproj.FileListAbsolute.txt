@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe.config
+C:\Users\Роман\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.exe
+C:\Users\Роман\source\repos\DBConnection\DBConnection\bin\Debug\DBConnection.pdb
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.DBConnection.resources
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.Properties.Resources.resources
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.exe
+C:\Users\Роман\source\repos\DBConnection\DBConnection\obj\Debug\DBConnection.pdb

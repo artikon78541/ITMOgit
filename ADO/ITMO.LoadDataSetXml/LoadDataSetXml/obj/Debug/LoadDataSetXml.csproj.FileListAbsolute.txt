@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe.config
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.exe
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\bin\Debug\LoadDataSetXml.pdb
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Form1.resources
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.exe
+C:\Users\Роман\source\repos\ITMO.LoadDataSetXml\LoadDataSetXml\obj\Debug\LoadDataSetXml.pdb

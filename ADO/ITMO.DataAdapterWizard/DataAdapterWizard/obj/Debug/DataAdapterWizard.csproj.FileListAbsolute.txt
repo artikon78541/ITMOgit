@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe.config
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.exe
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\bin\Debug\DataAdapterWizard.pdb
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Form1.resources
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.exe
+C:\Users\Роман\source\repos\ITMO.DataAdapterWizard\DataAdapterWizard\obj\Debug\DataAdapterWizard.pdb

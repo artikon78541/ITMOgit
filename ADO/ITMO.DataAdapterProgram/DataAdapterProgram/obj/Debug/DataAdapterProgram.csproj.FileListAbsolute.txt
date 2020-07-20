@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe.config
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.exe
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\bin\Debug\DataAdapterProgram.pdb
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Form1.resources
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.exe
+C:\Users\Роман\source\repos\ITMO.DataAdapterProgram\DataAdapterProgram\obj\Debug\DataAdapterProgram.pdb

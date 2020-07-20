@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe.config
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.exe
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\bin\Debug\WorkingDataTable.pdb
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.form1.resources
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.exe
+C:\Users\Роман\source\repos\ITMO.WorkingDataTable\WorkingDataTable\obj\Debug\WorkingDataTable.pdb

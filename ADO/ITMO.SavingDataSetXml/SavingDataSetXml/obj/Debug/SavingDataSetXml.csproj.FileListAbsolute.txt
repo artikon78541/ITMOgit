@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe.config
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.exe
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\bin\Debug\SavingDataSetXml.pdb
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Form1.resources
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.exe
+C:\Users\Роман\source\repos\ITMO.SavingDataSetXml\SavingDataSetXml\obj\Debug\SavingDataSetXml.pdb

@@ -1,0 +1,6 @@
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe.config
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\bin\Debug\Linq_Student.exe
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\bin\Debug\Linq_Student.pdb
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\obj\Debug\Linq_Student.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\obj\Debug\Linq_Student.exe
+C:\Users\Роман\source\repos\ITMO.Linq_Student\Linq_Student\obj\Debug\Linq_Student.pdb

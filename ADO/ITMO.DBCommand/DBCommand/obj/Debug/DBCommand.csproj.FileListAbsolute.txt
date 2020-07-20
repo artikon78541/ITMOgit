@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\bin\Debug\DBCommand.exe.config
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\bin\Debug\DBCommand.exe
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\bin\Debug\DBCommand.pdb
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.Form1.resources
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.exe
+C:\Users\Роман\source\repos\ITMO.DBCommand\DBCommand\obj\Debug\DBCommand.pdb
