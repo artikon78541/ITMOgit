@@ -1,0 +1,15 @@
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\CourseManager.exe.config
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\CourseManager.exe
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\CourseManager.pdb
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\EntityFramework.dll
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\EntityFramework.xml
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.CourseViewer.resources
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.csproj.CopyComplete
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.exe
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.pdb
+C:\Users\Роман\source\repos\ITMO.CourseManager\CourseManager\obj\Debug\CourseManager.OfficeAssignment.resources

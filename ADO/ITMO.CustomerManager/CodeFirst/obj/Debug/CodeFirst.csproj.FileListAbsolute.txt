@@ -1,0 +1,11 @@
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll.config
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\CodeFirst.dll
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\CodeFirst.pdb
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\EntityFramework.dll
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\EntityFramework.xml
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\obj\Debug\CodeFirst.dll
+C:\Users\Роман\source\repos\ITMO.CustomerManager\CodeFirst\obj\Debug\CodeFirst.pdb
