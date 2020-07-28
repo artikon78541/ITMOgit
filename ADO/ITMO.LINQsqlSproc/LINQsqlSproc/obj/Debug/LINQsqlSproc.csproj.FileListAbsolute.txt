@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe.config
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.exe
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\bin\Debug\LINQsqlSproc.pdb
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Form1.resources
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.exe
+C:\Users\Роман\source\repos\ITMO.LINQsqlSproc\LINQsqlSproc\obj\Debug\LINQsqlSproc.pdb

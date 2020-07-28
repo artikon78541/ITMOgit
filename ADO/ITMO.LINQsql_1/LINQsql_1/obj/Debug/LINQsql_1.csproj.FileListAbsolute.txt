@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe.config
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.exe
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\bin\Debug\LINQsql_1.pdb
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Form1.resources
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.exe
+C:\Users\Роман\source\repos\ITMO.LINQsql_1\LINQsql_1\obj\Debug\LINQsql_1.pdb
