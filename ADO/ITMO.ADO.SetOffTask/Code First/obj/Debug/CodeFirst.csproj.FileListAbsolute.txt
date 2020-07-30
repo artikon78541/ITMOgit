@@ -1,0 +1,12 @@
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\Code First.dll
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\Code First.pdb
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\obj\Debug\CodeFirst.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\obj\Debug\Code First.dll
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\obj\Debug\Code First.pdb
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\Code First.dll.config
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\EntityFramework.dll
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\EntityFramework.xml
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\obj\Debug\CodeFirst.csproj.CopyComplete
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\Code First\obj\Debug\CodeFirst.csprojAssemblyReference.cache

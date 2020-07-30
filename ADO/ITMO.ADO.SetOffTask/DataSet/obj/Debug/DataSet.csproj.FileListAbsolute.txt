@@ -1,0 +1,10 @@
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\bin\Debug\DataSet.exe.config
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\bin\Debug\DataSet.exe
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\bin\Debug\DataSet.pdb
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.Form1.resources
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.exe
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.pdb
+C:\Users\Роман\source\repos\ITMO.ADO.SetOffTask\DataSet\obj\Debug\DataSet.csprojAssemblyReference.cache
