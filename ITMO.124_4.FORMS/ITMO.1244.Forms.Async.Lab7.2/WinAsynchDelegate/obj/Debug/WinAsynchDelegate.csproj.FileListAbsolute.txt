@@ -1,9 +1,0 @@
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe.config
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\bin\Debug\WinAsynchDelegate.pdb
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Form1.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.Properties.Resources.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.GenerateResource.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.csproj.CoreCompileInputs.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.2\WinAsynchDelegate\obj\Debug\WinAsynchDelegate.pdb

@@ -1,9 +1,0 @@
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe.config
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\bin\Debug\WinAsynchMethod.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\bin\Debug\WinAsynchMethod.pdb
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Form1.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.Properties.Resources.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.GenerateResource.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.csproj.CoreCompileInputs.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.3\WinAsynchMethod\obj\Debug\WinAsynchMethod.pdb

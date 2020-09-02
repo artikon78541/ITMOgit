@@ -1,9 +1,0 @@
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\bin\Debug\Forms_Lab.5.exe.config
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\bin\Debug\Forms_Lab.5.exe
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\bin\Debug\Forms_Lab.5.pdb
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Forms_Lab._5.ParentForm.resources
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Forms_Lab._5.Properties.Resources.resources
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Ex1.5_Forms_Lab.5.csproj.GenerateResource.cache
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Ex1.5_Forms_Lab.5.csproj.CoreCompileInputs.cache
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Forms_Lab.5.exe
-C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS_LAB5\Forms_Lab.5\obj\Debug\Forms_Lab.5.pdb

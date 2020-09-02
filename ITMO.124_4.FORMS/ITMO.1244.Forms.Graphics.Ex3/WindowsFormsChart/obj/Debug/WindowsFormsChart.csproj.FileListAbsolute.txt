@@ -1,9 +1,0 @@
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe.config
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\bin\Debug\WindowsFormsChart.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\bin\Debug\WindowsFormsChart.pdb
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.Form1.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.Properties.Resources.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.csproj.GenerateResource.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.csproj.CoreCompileInputs.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex3\WindowsFormsChart\obj\Debug\WindowsFormsChart.pdb

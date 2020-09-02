@@ -1,9 +1,0 @@
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7._1.WinBackgoundWorker.Form1.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7._1.WinBackgoundWorker.Properties.Resources.resources
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7.1.WinBackgoundWorker.csproj.GenerateResource.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7.1.WinBackgoundWorker.csproj.CoreCompileInputs.cache
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\bin\Debug\Ex7.1.WinBackgoundWorker.exe.config
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\bin\Debug\Ex7.1.WinBackgoundWorker.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\bin\Debug\Ex7.1.WinBackgoundWorker.pdb
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7.1.WinBackgoundWorker.exe
-C:\Users\Роман\source\repos\ITMO.1244.Forms.Async.Lab7.1\Ex7.1.WinBackgoundWorker\obj\Debug\Ex7.1.WinBackgoundWorker.pdb
