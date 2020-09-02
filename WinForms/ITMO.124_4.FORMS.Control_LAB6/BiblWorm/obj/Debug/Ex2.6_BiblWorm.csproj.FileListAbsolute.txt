@@ -1,0 +1,18 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\Ex2.6_BiblWorm.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\Ex2.6_BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\bin\Debug\BiblWorm.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\Ex2.6_BiblWorm.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\Ex2.6_BiblWorm.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB6\BiblWorm\obj\Debug\BiblWorm.pdb

@@ -1,0 +1,9 @@
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\bin\Debug\Balls.exe.config
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\bin\Debug\Balls.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\bin\Debug\Balls.pdb
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.Form1.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.Properties.Resources.resources
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.exe
+C:\Users\Роман\source\repos\ITMO.1244.Forms.Graphics.Ex2\Balls\obj\Debug\Balls.pdb

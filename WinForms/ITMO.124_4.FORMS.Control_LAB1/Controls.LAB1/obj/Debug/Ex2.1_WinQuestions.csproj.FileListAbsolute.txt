@@ -1,0 +1,18 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Ex2.1_WinQuestions.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Ex2.1_WinQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\bin\Debug\Controls.LAB1.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Ex2.1_WinQuestions.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Ex2.1_WinQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB1\Controls.LAB1\obj\Debug\Controls.LAB1.pdb

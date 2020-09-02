@@ -1,0 +1,14 @@
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\bin\Debug\SetoffForms.exe.config
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\bin\Debug\SetoffForms.exe
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\bin\Debug\SetoffForms.pdb
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.Form1.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.Properties.Resources.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.exe
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.pdb
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.NOD.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.Pow.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.Intersection.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.Figure.resources
+C:\Users\Роман\source\repos\SetoffTask\SetoffForms\obj\Debug\SetoffForms.csprojAssemblyReference.cache

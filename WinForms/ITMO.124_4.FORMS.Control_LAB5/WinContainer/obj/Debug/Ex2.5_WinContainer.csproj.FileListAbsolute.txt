@@ -1,0 +1,18 @@
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\Ex2.5_WinContainer.csproj.GenerateResource.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\Ex2.5_WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\Роман\Desktop\Новая папка (3)\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.exe.config
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\bin\Debug\WinContainer.pdb
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.Form1.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.Properties.Resources.resources
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\Ex2.5_WinContainer.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\Ex2.5_WinContainer.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.exe
+C:\Users\Роман\source\ITMOgit\ITMO.124_4.FORMS\ITMO.124_4.FORMS.Control_LAB5\WinContainer\obj\Debug\WinContainer.pdb

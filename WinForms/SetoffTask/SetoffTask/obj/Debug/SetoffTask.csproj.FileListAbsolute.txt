@@ -1,0 +1,6 @@
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\bin\Debug\SetoffTask.exe.config
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\bin\Debug\SetoffTask.exe
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\bin\Debug\SetoffTask.pdb
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\obj\Debug\SetoffTask.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\obj\Debug\SetoffTask.exe
+C:\Users\Роман\source\repos\SetoffTask\SetoffTask\obj\Debug\SetoffTask.pdb

@@ -1,0 +1,10 @@
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\bin\Debug\WinButNum.exe.config
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\bin\Debug\WinButNum.exe
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\bin\Debug\WinButNum.pdb
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\Ex3.3.WinButNum.csprojAssemblyReference.cache
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\WinButNum.Form1.resources
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\WinButNum.Properties.Resources.resources
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\Ex3.3.WinButNum.csproj.GenerateResource.cache
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\Ex3.3.WinButNum.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\WinButNum.exe
+C:\Users\Роман\source\ITMO_git\ITMO.124_4.FORMS\WinButNum\WinButNum\obj\Debug\WinButNum.pdb
