@@ -5,6 +5,8 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
+
+
 namespace ITMO.ASP.LAB
 {
     public partial class Reg : System.Web.UI.Page
@@ -16,6 +18,31 @@ namespace ITMO.ASP.LAB
                 GuestResponse rsvp = new GuestResponse(name.Text, email.Text, phone.Text, CheckBoxYN.Checked);
                 ResponseRepository.GetRepository().AddResponse(rsvp);
 
+                if (CheckBoxYN.Checked)
+                {
+                    Report report1 = new Report(TextBoxTitle.Text,
+                    TextBoxTextAnnot.Text);
+                    rsvp.Reports.Add(report1);
+                }
+
+                if (TextBoxTitle2.Text != "" || TextBoxTextAnnot2.Text != "")
+                {
+                    Report report2 = new Report(TextBoxTitle2.Text,
+                    TextBoxTextAnnot2.Text);
+                    rsvp.Reports.Add(report2);
+                }
+
+                try
+                {
+                    SampleContext context = new SampleContext();
+                    context.GuestResponses.Add(rsvp);
+                    context.SaveChanges();
+                }
+                catch (Exception ex)
+                {
+                    Response.Redirect("Ошибка " + ex.Message);
+                }
+
                 if (rsvp.WillAttend.HasValue && rsvp.WillAttend.Value)
                 {
                     Response.Redirect("seeyouthere.html");
@@ -24,6 +51,10 @@ namespace ITMO.ASP.LAB
                 {
                     Response.Redirect("sorryyoucantcome.html");
                 }
+
+                Page.Validate();
+                if (!Page.IsValid)
+                    return;
             }
         }
     }

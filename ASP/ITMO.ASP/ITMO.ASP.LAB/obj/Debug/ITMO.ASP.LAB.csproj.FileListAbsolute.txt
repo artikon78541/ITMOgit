@@ -56,4 +56,8 @@ C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\obj\Debug\ITMO.ASP.LAB.cs
 C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\obj\Debug\ITMO.ASP.LAB.csproj.CopyComplete
 C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\obj\Debug\ITMO.ASP.LAB.dll
 C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\obj\Debug\ITMO.ASP.LAB.pdb
+C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\bin\EntityFramework.dll
+C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\bin\EntityFramework.SqlServer.dll
+C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\bin\EntityFramework.xml
+C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\bin\EntityFramework.SqlServer.xml
 C:\Users\Роман\source\repos\ITMO.ASP\ITMO.ASP.LAB\obj\Debug\ITMO.ASP.LAB.csprojAssemblyReference.cache
