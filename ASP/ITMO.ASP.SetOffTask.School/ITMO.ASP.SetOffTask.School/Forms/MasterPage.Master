@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="ITMO.ASP.SetOffTask.School.Forms.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title>StudPerf</title>
+
+    <link href="../Styles.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+
+    <div class="wrapper">
+        <div class="menu">
+            <ul>
+                <li class="navigation_first_item"><a href="Perform.aspx">Ввод оценок</a></li>
+                <li><a href="StudentCreation.aspx">Новый студент</a></li>
+                <li><a href="CourseCreation.aspx">Новый курс</a></li>
+                <li><a href="StudentMarks.aspx">Просмотр оценок</a></li>
+                <li><a href="TOP5best.aspx">ТОП5 лучших</a></li>
+                <li><a href="TOP5worst.aspx">ТОП5 отстающих</a></li>
+            </ul>
+        </div>
+  
+    <div class="clear"></div>
+    <div class="content">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div class="clear"></div>
+    <div class ="footer">
+        <h2>ИТМО. Зачетное задание ASP.NET</h2>
+    </div>
+    </div>
+    </form>
+</body>
+</html>

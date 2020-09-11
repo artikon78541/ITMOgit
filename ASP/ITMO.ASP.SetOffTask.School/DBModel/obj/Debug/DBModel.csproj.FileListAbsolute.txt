@@ -1,0 +1,11 @@
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\DBModel.dll.config
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\DBModel.dll
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\DBModel.pdb
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\EntityFramework.dll
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\EntityFramework.xml
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\obj\Debug\DBModel.csproj.CoreCompileInputs.cache
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\obj\Debug\DBModel.csproj.CopyComplete
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\obj\Debug\DBModel.dll
+C:\Users\Роман\source\repos\ITMO.ASP.SetOffTask.School\DBModel\obj\Debug\DBModel.pdb
